@@ -8,7 +8,11 @@ Live Demo: https://12216726.vercel.app/
 <img width="1918" height="917" alt="Screenshot 2025-07-14 125512" src="https://github.com/user-attachments/assets/a7c56325-dc1a-4064-a3b1-72710d46df98" />
 
 
----
+
+<img width="1918" height="925" alt="12" src="https://github.com/user-attachments/assets/89413ce9-9088-4c87-acf4-832d39688820" />
+
+<img width="1918" height="912" alt="13" src="https://github.com/user-attachments/assets/c06943a5-cece-4ae5-84fe-1e1cde0fc91d" />
+
 
 ## 📁 Folder Breakdown
 
